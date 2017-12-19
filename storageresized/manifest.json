@@ -1,0 +1,19 @@
+{
+    "info": {
+        "name": "Storage Resized",
+        "version": 3
+    },
+	
+	"mixintos" : {
+		"stonehearth/entities/containers/small_crate/small_crate.json" : "storageresized/entities/containers/small_crate.json",
+        "stonehearth/entities/containers/small_crate_fine/small_crate_fine.json" : "storageresized/entities/containers/small_crate_fine.json",
+        "stonehearth/entities/containers/large_crate/large_crate.json" : "storageresized/entities/containers/large_crate.json",
+        "stonehearth/entities/containers/large_crate_fine/large_crate_fine.json" : "storageresized/entities/containers/large_crate_fine.json",
+        "stonehearth/entities/containers/leather_bound_chest/leather_bound_chest.json" : "storageresized/entities/containers/leather_bound_chest.json",
+        "stonehearth/entities/containers/leather_bound_chest_fine/leather_bound_chest_fine.json" : "storageresized/entities/containers/leather_bound_chest_fine.json",
+        "stonehearth/entities/containers/ornate_leather_bound_chest/ornate_leather_bound_chest.json" : "storageresized/entities/containers/ornate_leather_bound_chest.json",
+        "stonehearth/entities/containers/stone_chest/stone_chest.json" : "storageresized/entities/containers/stone_chest.json",
+        "stonehearth/entities/containers/vault/vault.json" : "storageresized/entities/containers/vault.json"
+	}
+
+}
